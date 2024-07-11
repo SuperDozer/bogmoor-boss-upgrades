@@ -1,0 +1,19 @@
+{
+"modId": "buff_bogmoor",
+"newAspects": [
+	"boss",
+	"gorgon_spawnRoe",
+	"mystic_interfuse",
+	"hunterGreenhorn_silkstep",
+	"hidden"
+],
+"stats": {
+	"WARDING": "0",
+	"SPEED": "14",
+	"HEALTH": "27",
+	"MELEE_ACCURACY": "500",
+	"STUNT_CHANCE": "500",
+	"ARMOR": "9",
+	"RANGE_ACCURACY": "100"
+}
+}
